@@ -2,7 +2,7 @@
   "name": "federation-gateway",
   "description": "A sample gateway from apollo-federation",
   "dependencies": {
-    "@apollo/gateway": "0.16.4",
+    "@apollo/gateway": "2.10.1",
     "apollo-server": "2.14.2",
     "graphql": "15.0.0"
   },
@@ -13,6 +13,6 @@
   },
   "keywords": [],
   "devDependencies": {
-    "nodemon": "2.0.4"
+    "nodemon": "3.1.10"
   }
 }
